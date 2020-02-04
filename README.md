@@ -4,8 +4,7 @@
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#information_source-how-to-use">How To Use</a>
 </p>
 
 ## :rocket: Technologies
@@ -24,10 +23,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/lukemorales/react-rocketshoes
+$ git clone https://github.com/Veppo/web_add_dev
 
 # Go into the repository
-$ cd react-rocketshoes
+$ cd web_add_dev
 
 # Install dependencies
 $ yarn install
